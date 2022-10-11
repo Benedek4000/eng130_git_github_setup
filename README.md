@@ -40,7 +40,8 @@ git push -u origin main
 
 ### Github commands
 
-add file to commit: `git add "filename"` or `git add .`  
+add file to commit: `git add "filename"` or `git add .` 
+remove file: `git rm (-r) "file (folder) name"`
 commit: `git commit -m "message"`  
 push: `git push -u origin main`  
 check status: `git status`  
