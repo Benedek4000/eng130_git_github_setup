@@ -5,7 +5,6 @@ Make sure to replace arguments where needed:
 - the main library
 - the email address
 - the public key name
-- 
 
 #### Generate SSH key
 
