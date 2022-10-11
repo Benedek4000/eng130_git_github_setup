@@ -43,3 +43,5 @@ git push -u origin main
 add file to commit: `git add "filename"` or `git add .`  
 commit: `git commit -m "message"`  
 push: `git push -u origin main`  
+check status: `git status`  
+pull: `git pull`
