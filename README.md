@@ -35,3 +35,11 @@ git remote add origin "git@github.com:[username]/[repository].git"
 ```commandline
 git push -u origin main
 ```
+
+![alt text](https://miro.medium.com/max/625/0*Eb5ulwzfUNHGXRYJ.png)
+
+### Github commands
+
+add file to commit: `git add "filename"` or `git add .`  
+commit: `git commit -m "message"`  
+push: `git push -u origin main`  
