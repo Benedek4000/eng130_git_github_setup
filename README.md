@@ -45,4 +45,5 @@ remove file: `git rm (-r) "file (folder) name"`
 commit: `git commit -m "message"`  
 push: `git push -u origin main`  
 check status: `git status`  
-pull: `git pull`
+pull: `git pull`  
+list commands: `git`
